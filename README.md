@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barış Cebeci</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate Android developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Web Development with React**
+- 🌱 I’m currently learning **Android Development with Kotlin**
 
 - 📫 How to reach me **barisscebeci@gmail.com**
 
